@@ -1,0 +1,4 @@
+step1: pip install git+https://github.com/serpapi/google-search-results-python  in the terminal 
+step2: pip intall openai in the terminal
+step3: pip install -r req.txt in the terminal
+to run finally use python app.py in terminal
